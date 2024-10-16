@@ -1,1 +1,1 @@
-"# aplication" 
+"# Fazer um programa para ler dados de n Produtos,(N fornecido pelo usario).Ao final, mostrar os preços dos produtos em order separando os comuns, usados e importados. Todos produtos possuiem nome e preço.Produtos importados possuem taxa de alfândega, e produtos usados possuem data de fabricação. Estes dados específicos devem ser acrescentados na etiqueta de preço conforme (próxima página). Para produtos importados, a taxa e alfândega deve ser acrescentada ao preço final do produto. Favor implementar o programa conforme projeto ao lado." 
